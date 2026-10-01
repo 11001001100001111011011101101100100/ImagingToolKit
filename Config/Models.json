@@ -1,0 +1,11 @@
+{
+  "Models": [
+    {
+      "Name": "Phi-3.5-mini-instruct-onnx",
+      "FileName": "phi3.5.onnx",
+      "Url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct-onnx/resolve/main/model.onnx",
+      "BackupUrl": "https://raw.githubusercontent.com/microsoft/Phi-3.5-ONNX/main/model.onnx",
+      "GitUrl": "https://github.com/microsoft/Phi-3.5-ONNX.git"
+    }
+  ]
+}
